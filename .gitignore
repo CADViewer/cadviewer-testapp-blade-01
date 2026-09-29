@@ -22,3 +22,13 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+# CADViewer handler runtime output
+/public/converters/files/**
+!/public/converters/files/**/
+!/public/converters/files/**/.gitkeep
+
+# Linux converters unpacked from their archives (done by the Dockerfile)
+/converters/autoxchange/linux/ax2026_L64_27_06b_163d
+/converters/dwgmerge/linux/DwgMerge_2023_L64_23_12_03
+/converters/linklist/linux/LinkList_2025_L64_25_07_14

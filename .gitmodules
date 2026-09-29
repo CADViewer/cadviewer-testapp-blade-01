@@ -1,0 +1,4 @@
+[submodule "public/php"]
+	path = public/php
+	url = https://github.com/CADViewer/cadviewer-php-scripts.git
+	ignore = dirty
