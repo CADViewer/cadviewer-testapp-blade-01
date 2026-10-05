@@ -1,5 +1,7 @@
 # CADViewer Laravel Blade Sample
 
+🔗 **Live demo:** https://cadviewer-testapp-blade-01.cadviewer.com
+
 This repository provides a base implementation of [CADViewer](https://cadviewer.com) inside a modern **Laravel Blade** environment.
 
 It is designed to demonstrate how to correctly load the CADViewer interface, set up server-side handlers, and render DWG/DXF/SVG files seamlessly inside a Laravel application, mimicking a typical production setup.
